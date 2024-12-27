@@ -1,6 +1,6 @@
 # 1. Linux Administration
-Installation
-Linux Directory Structure and File Systems
+1. Installation
+2. Linux Directory Structure and File Systems
 Boot process
 Basic System Commands
 File Management
